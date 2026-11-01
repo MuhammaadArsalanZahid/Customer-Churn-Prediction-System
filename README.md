@@ -1,6 +1,6 @@
 # Customer Churn Prediction System
 
-**Demo video:** Record a 2–4 minute demo and add the video link here.
+**Demo video:** https://drive.google.com/file/d/17e81ELdX2EbOKE8Zh7HFpv7S3YclLbWx/view?usp=drive_link
 
 An end-to-end machine-learning app that estimates telecom customer churn
 probability, explains model factors and supports batch CSV predictions.
@@ -101,7 +101,7 @@ retention outreach also has a cost.
 
 **Built during the AI/ML Internship at Taviq AI Solutions**
 
-Name: [Your name]  
-LinkedIn: [Your LinkedIn profile]  
-GitHub: [Repository URL]  
-Demo video: [Video link]
+Name: Muhammad Arsalan Zahid  
+LinkedIn: https://www.linkedin.com/in/muhammad-arsalan-zahid-aa255b330/  
+GitHub: https://github.com/MuhammaadArsalanZahid/Customer-Churn-Prediction-System/
+Demo video: https://drive.google.com/file/d/17e81ELdX2EbOKE8Zh7HFpv7S3YclLbWx/view?usp=drive_link
