@@ -104,4 +104,4 @@ retention outreach also has a cost.
 Name: Muhammad Arsalan Zahid  
 LinkedIn: https://www.linkedin.com/in/muhammad-arsalan-zahid-aa255b330/  
 GitHub: https://github.com/MuhammaadArsalanZahid/Customer-Churn-Prediction-System/
-Demo video: https://drive.google.com/file/d/17e81ELdX2EbOKE8Zh7HFpv7S3YclLbWx/view?usp=drive_link
+ Demo video: https://drive.google.com/file/d/17e81ELdX2EbOKE8Zh7HFpv7S3YclLbWx/view?usp=drive_link
