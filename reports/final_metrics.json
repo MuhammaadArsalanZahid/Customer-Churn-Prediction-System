@@ -1,0 +1,61 @@
+{
+  "selected_model": "XGBoost",
+  "threshold": 0.1364583671092987,
+  "threshold_policy": {
+    "method": "maximum recall with validation precision >= 0.35",
+    "validation_precision_floor": 0.35
+  },
+  "cleaning_summary": {
+    "original_rows": 7043,
+    "duplicate_rows_removed": 0,
+    "rows_without_valid_target_removed": 0,
+    "clean_rows": 7043,
+    "missing_total_charges": 11
+  },
+  "training_rows": 4225,
+  "validation_rows": 1409,
+  "test_rows": 1409,
+  "validation_metrics": {
+    "accuracy": 0.5138396025550035,
+    "precision": 0.3500482160077146,
+    "recall": 0.9705882352941176,
+    "f1": 0.5145287030474841,
+    "roc_auc": 0.8394456069647885,
+    "threshold": 0.1364583671092987,
+    "confusion_matrix": [
+      [
+        361,
+        674
+      ],
+      [
+        11,
+        363
+      ]
+    ]
+  },
+  "test_metrics": {
+    "accuracy": 0.524485450674237,
+    "precision": 0.35631067961165047,
+    "recall": 0.9812834224598931,
+    "f1": 0.5227920227920227,
+    "roc_auc": 0.8447880337905913,
+    "threshold": 0.1364583671092987,
+    "confusion_matrix": [
+      [
+        372,
+        663
+      ],
+      [
+        7,
+        367
+      ]
+    ]
+  },
+  "tuned_cv_f1": 0.6344032466349492,
+  "best_parameters": {
+    "model__learning_rate": 0.03,
+    "model__max_depth": 2,
+    "model__n_estimators": 200
+  },
+  "created_at_utc": "2026-11-01T20:06:30.317214+00:00"
+}

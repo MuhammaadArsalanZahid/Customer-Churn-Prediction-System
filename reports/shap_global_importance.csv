@@ -1,0 +1,55 @@
+feature,mean_abs_shap
+categorical__Contract_Month-to-month,0.6247988938093185
+numeric__tenure,0.3958069679606706
+categorical__InternetService_Fiber optic,0.25576938211917877
+categorical__OnlineSecurity_No,0.22001146024465562
+categorical__Contract_Two year,0.15888986329734325
+categorical__PaymentMethod_Electronic check,0.13932094505429268
+categorical__TechSupport_No,0.12536528062820435
+numeric__MonthlyCharges,0.11695455407863482
+numeric__average_charge_per_month,0.08132143585849554
+categorical__StreamingTV_Yes,0.06688835878670216
+categorical__PaperlessBilling_No,0.06349284508824349
+categorical__MultipleLines_No,0.06343010571599007
+numeric__TotalCharges,0.04846785101760179
+categorical__Contract_One year,0.04560162904858589
+categorical__OnlineBackup_No,0.0438353822901845
+categorical__StreamingMovies_Yes,0.04016422754526138
+categorical__InternetService_No,0.02894533697143197
+categorical__Dependents_No,0.026150225773453713
+categorical__PaperlessBilling_Yes,0.010884055386530235
+categorical__PhoneService_No,0.01072489434760064
+numeric__monthly_charge_per_service,0.009010234948655126
+numeric__services_used,0.008599077539751306
+numeric__SeniorCitizen,0.007882384398952126
+categorical__tenure_group_61+ months,0.006158742574043572
+categorical__tenure_group_0-12 months,0.0061444794684648515
+categorical__TechSupport_Yes,0.0035737540321424603
+categorical__PhoneService_Yes,0.0016094073071144521
+categorical__DeviceProtection_Yes,0.001361169489682652
+categorical__tenure_group_49-60 months,0.0011098299839068205
+categorical__Dependents_Yes,0.0
+categorical__tenure_group_25-48 months,0.0
+categorical__tenure_group_13-24 months,0.0
+categorical__PaymentMethod_Mailed check,0.0
+numeric__missingindicator_TotalCharges,0.0
+categorical__PaymentMethod_Credit card (automatic),0.0
+categorical__PaymentMethod_Bank transfer (automatic),0.0
+categorical__gender_Female,0.0
+categorical__gender_Male,0.0
+categorical__Partner_No,0.0
+categorical__Partner_Yes,0.0
+categorical__OnlineSecurity_Yes,0.0
+categorical__OnlineSecurity_No internet service,0.0
+categorical__StreamingMovies_No internet service,0.0
+categorical__StreamingMovies_No,0.0
+categorical__MultipleLines_No phone service,0.0
+categorical__StreamingTV_No internet service,0.0
+categorical__StreamingTV_No,0.0
+categorical__TechSupport_No internet service,0.0
+categorical__MultipleLines_Yes,0.0
+categorical__DeviceProtection_No internet service,0.0
+categorical__DeviceProtection_No,0.0
+categorical__InternetService_DSL,0.0
+categorical__OnlineBackup_No internet service,0.0
+categorical__OnlineBackup_Yes,0.0
